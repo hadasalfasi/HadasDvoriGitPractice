@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            
+            string school = "tamar";
             Console.WriteLine("Hello, World!");
         }
     }
